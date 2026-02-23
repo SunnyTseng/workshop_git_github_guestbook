@@ -1,4 +1,4 @@
-# Activities for git/github workshop! 
+# Activities for git/github workshop!
 
 ### Activity 1: Clone
 
@@ -6,5 +6,8 @@
 
 Here are the guests who visited this repo in history:
 
+
 - Sunny Tseng: I am so glad to be here!
 - Sunny Tseng: I am here again! 
+- Gintas: I'm a cookie monster!
+
