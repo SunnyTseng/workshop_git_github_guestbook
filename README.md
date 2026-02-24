@@ -15,3 +15,4 @@ Here are the guests who visited this repo in history:
 - Fernando: I think I am gitting it.
 - Tista: Hi, I hope this time it works.
 -Veronica: happy to be here
+- Susie: Learning so much!
