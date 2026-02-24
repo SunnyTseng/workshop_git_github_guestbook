@@ -13,5 +13,7 @@ Here are the guests who visited this repo in history:
 - Sunny: Welcome to the Git world with me! Happy Tuesday! 
 - Joe: Thanks Sunny! I heard there would be cookies...
 - Fernando: I think I am gitting it.
-- Tista: It worked!
+- Tista: It Worked!
+- Veronica: happy to be here
+- Susie: Learning so much!
 
