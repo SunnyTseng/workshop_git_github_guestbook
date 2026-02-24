@@ -12,4 +12,3 @@ Here are the guests who visited this repo in history:
 - Gintas: I'm a cookie monster!
 - Sunny: Welcome to the Git world with me! Happy Tuesday! 
 - Joe: Thanks Sunny! I heard there would be cookies...
-
