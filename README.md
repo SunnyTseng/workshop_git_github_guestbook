@@ -10,11 +10,15 @@ Here are the guests who visited this repo in history:
 - Sunny Tseng: I am so glad to be here!
 - Sunny Tseng: I am here again! 
 - Gintas: I'm a cookie monster!
-- Mackenzie here! Thanks Sunny:)
 
 =======
 - Sunny: Welcome to the Git world with me! Happy Tuesday! 
 - Joe: Thanks Sunny! I heard there would be cookies...
 - Fernando: I think I am gitting it.
+<<<<<<< HEAD
 
-
+=======
+-Veronica: Happy to be here
+- Tista: Hi, I hope this time it works.
+- Mackenzie here! Thanks Sunny:)
+>>>>>>> d848db7fff3e10d3391ceedebf7d3775f62d4c61
