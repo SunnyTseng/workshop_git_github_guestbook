@@ -14,7 +14,7 @@ Here are the guests who visited this repo in history:
 - Mackenzie here! Thanks Sunny:)
 - Joe: Thanks Sunny! I heard there would be cookies...
 - Fernando: I think I am gitting it.
--Veronica: Happy to be here
+- Veronica: Happy to be here
 - Tista: Hi, I hope this time it works.
 - Tista: It Worked!
 - Veronica: happy to be here
