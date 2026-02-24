@@ -11,5 +11,6 @@ Here are the guests who visited this repo in history:
 - Sunny Tseng: I am here again! 
 - Gintas: I'm a cookie monster!
 - Sunny: Welcome to the Git world with me! Happy Tuesday! 
--Veronica: I love the workshop and infographics!
+-Veronica: I love the workshop and infographics!!
+
 
